@@ -1,0 +1,14 @@
+.footer {
+  position: fixed;
+  bottom: 0;
+  font-size: 1.5em;
+  text-align: center;
+  background-color: #f7ca18;
+  padding: 10px;
+  font-weight: bold;
+  width: 100%;
+  font-family: "Roboto";
+}
+.item {
+  margin: 50px;
+}
